@@ -5,6 +5,7 @@ This repo documents the papers related to the topic "Indoor Visual Navigation".
 1. [DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames. 2020 ICLR](https://arxiv.org/pdf/1911.00357.pdf)
 2. [Auxiliary Tasks Speed Up Learning PointGoal Navigation. 2020](https://arxiv.org/pdf/2007.04561.pdf)
 3. [Learning to Plan with uncertain Topological Maps. 2020](https://arxiv.org/pdf/2007.05270.pdf)
+4. [A Behavioral Approach to Visual Navigation with Graph Localization Networks](https://arxiv.org/pdf/1903.00445.pdf)
 
 ### ImageGoal Navigation ###
 1. [Learning to Visually Navigate in Photorealistic Environments Without and Supervision. 2020](https://arxiv.org/pdf/2004.04954.pdf)
