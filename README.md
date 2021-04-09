@@ -8,6 +8,7 @@ This repo documents the papers related to the topic "Indoor Visual Navigation".
 4. [A Behavioral Approach to Visual Navigation with Graph Localization Networks](https://arxiv.org/pdf/1903.00445.pdf)
 
 ### ImageGoal Navigation ###
+1. [Target-driven visual navigation in indoor scenes using deep reinforcement learning. 2017 ICRA](https://arxiv.org/pdf/1609.05143.pdf)
 1. [Learning to Visually Navigate in Photorealistic Environments Without and Supervision. 2020](https://arxiv.org/pdf/2004.04954.pdf)
 2. [Memory-Augmented Reinforcement Learning for Image-Goal Navigation. 2021](https://arxiv.org/pdf/2101.05181.pdf)
 3. [Semi-parametric Topological Memory for Navigation. 2018 ICLR](https://arxiv.org/pdf/1803.00653.pdf)
